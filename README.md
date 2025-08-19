@@ -36,7 +36,45 @@ The project also demonstrates cloud integration by hosting the database on Mongo
 ---
 
 ## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   cd proshop_mern
+
+1. Install dependencies:
+npm install
+cd frontend
+npm install
+
+
+2. Create a .env file in the root with:
+
+NODE_ENV=development
+PORT=5000
+MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/proshop
+JWT_SECRET=abc123
+
+
+3. Run the backend server:
+
+npm run server
+
+
+4. Run the frontend:
+
+cd frontend
+npm start
+
+
+5. Seeder (to populate database with products & users):
+
+node backend/seeder
+
+### Screenshots
+
+
+### Current Status
+- Website runs locally with full functionality.
+- Database is hosted on MongoDB Atlas (Cloud).
+- Latest Products, Users, and Orders are accessible from the cloud database.
+
+### Project Summary
+
+Currently, the project is cloud-enabled because the database is hosted on MongoDB Atlas.
+The frontend and backend run locally but can later be deployed to the cloud for a fully cloud-deployed solution.
