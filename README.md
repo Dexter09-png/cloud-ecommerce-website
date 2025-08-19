@@ -68,7 +68,14 @@ npm start
 node backend/seeder
 
 ### Screenshots
+---
+### HomePage
 
+### Sign in page
+
+### Register page
+
+### Cart page
 
 ### Current Status
 - Website runs locally with full functionality.
