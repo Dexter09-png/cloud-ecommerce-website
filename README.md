@@ -7,15 +7,10 @@ The project also demonstrates cloud integration by hosting the database on Mongo
 ### Features Implemented
 
 - Frontend (React.js)
-
 - Product listing
-
 - Product search
-
 - Cart functionality
-
 - User authentication UI (Sign In, Register)
-
 - Backend (Node.js + Express)
 
 RESTful API endpoints
