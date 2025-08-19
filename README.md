@@ -38,6 +38,7 @@ The project also demonstrates cloud integration by hosting the database on Mongo
 ## Setup Instructions
 
 1. Install dependencies:
+
 npm install
 cd frontend
 npm install
