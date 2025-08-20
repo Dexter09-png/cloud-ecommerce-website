@@ -70,6 +70,7 @@ node backend/seeder
 ### Screenshots
 ---
 ### HomePage
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/bec8ab77-7d78-4628-a82c-da3ee8e438bd" />
 
 ### Sign in page
 
