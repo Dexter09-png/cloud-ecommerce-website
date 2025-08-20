@@ -67,12 +67,17 @@ npm start
 
 node backend/seeder
 
-### Screenshots
 ---
+### Screenshots
+
 ### HomePage
 <img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/bec8ab77-7d78-4628-a82c-da3ee8e438bd" />
 
+### Checkout page
+
+
 ### Sign in page
+<img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/b3b242a1-1d19-43ce-99e9-9a650f57e983" />
 
 ### Register page
 
