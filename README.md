@@ -100,4 +100,4 @@ The frontend and backend run locally but can later be deployed to the cloud for 
 ---
 
 ## Author
-Sanita Gaikwad – Cloud Internship Project at Codec Technology
+Sanita Gaikwad – Cloud Internship Project at Codec Technologies
