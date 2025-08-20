@@ -73,21 +73,22 @@ node backend/seeder
 ### HomePage
 <img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/bec8ab77-7d78-4628-a82c-da3ee8e438bd" />
 
-### Checkout page
+### Cart page
 <img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d38e75ef-a49d-4913-a141-6c9d789bd744" />
 
 ### Sign in page
 <img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/b3b242a1-1d19-43ce-99e9-9a650f57e983" />
 
 ### Register page
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/851464b7-b744-43dc-8565-935b2a185d8a" />
 
-### Cart page
-
+---
 ### Current Status
 - Website runs locally with full functionality.
 - Database is hosted on MongoDB Atlas (Cloud).
 - Latest Products, Users, and Orders are accessible from the cloud database.
 
+---
 ### Project Summary
 
 Currently, the project is cloud-enabled because the database is hosted on MongoDB Atlas.
