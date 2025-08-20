@@ -68,6 +68,7 @@ npm start
 node backend/seeder
 
 ---
+
 ### Screenshots
 
 ### HomePage
@@ -83,13 +84,20 @@ node backend/seeder
 <img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/851464b7-b744-43dc-8565-935b2a185d8a" />
 
 ---
+
 ### Current Status
 - Website runs locally with full functionality.
 - Database is hosted on MongoDB Atlas (Cloud).
 - Latest Products, Users, and Orders are accessible from the cloud database.
 
 ---
+
 ### Project Summary
 
 Currently, the project is cloud-enabled because the database is hosted on MongoDB Atlas.
 The frontend and backend run locally but can later be deployed to the cloud for a fully cloud-deployed solution.
+
+---
+
+## Author
+Sanita Gaikwad – Cloud Internship Project at Codec Technology
