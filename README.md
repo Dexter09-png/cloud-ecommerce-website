@@ -74,7 +74,7 @@ node backend/seeder
 <img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/bec8ab77-7d78-4628-a82c-da3ee8e438bd" />
 
 ### Checkout page
-
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d38e75ef-a49d-4913-a141-6c9d789bd744" />
 
 ### Sign in page
 <img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/b3b242a1-1d19-43ce-99e9-9a650f57e983" />
